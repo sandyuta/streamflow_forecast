@@ -1,0 +1,16 @@
+# Data manipulation
+pandas
+numpy
+
+# Machine learning and Baselines
+scikit-learn
+xgboost
+statsmodels
+
+# Deep Learning
+tensorflow
+pytorch
+
+# Visualization
+matplotlib
+seaborn
