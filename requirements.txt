@@ -8,7 +8,6 @@ xgboost
 statsmodels
 
 # Deep Learning
-tensorflow
 pytorch
 
 # Visualization
