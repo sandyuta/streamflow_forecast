@@ -1,0 +1,3 @@
+Catchment,Model,Best_Params,Validation_RMSE
+snow,RandomForest,"{'n_estimators': 50, 'min_samples_split': 2, 'max_depth': 10}",2.978781144567504
+snow,XGBoost,"{'n_estimators': 50, 'max_depth': 5, 'learning_rate': 0.2}",2.704999279643514

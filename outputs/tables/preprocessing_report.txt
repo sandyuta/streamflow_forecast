@@ -1,0 +1,12 @@
+--- Snow-Driven (Colorado) Catchment ---
+Start Date: 1999-01-01
+End Date: 2013-12-31
+Total Days: 5479
+Missing/Interpolated Values: 0
+
+--- Rain-Driven (Southeast US) Catchment ---
+Start Date: 1999-01-01
+End Date: 2013-12-31
+Total Days: 5479
+Missing/Interpolated Values: 0
+
